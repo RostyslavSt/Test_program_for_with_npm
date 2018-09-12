@@ -1,7 +1,7 @@
 {
-  "name": "Test_npm_package",
+  "name": "Test_npm_package_sum",
   "version": "1.0.0",
-  "description": "",
+  "description": "test",
   "main": "./dist/bundle.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
     "watch": "webpack --watch"
   },
   "keywords": [],
-  "author": "",
+  "author": "rost",
   "license": "ISC",
   "devDependencies": {
     "webpack": "^4.18.0",
