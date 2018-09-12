@@ -1,6 +1,6 @@
 {
   "name": "test_program_for_with_npm",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "test_beta",
   "main": "./dist/bundle.js",
   "dependencies": {},
