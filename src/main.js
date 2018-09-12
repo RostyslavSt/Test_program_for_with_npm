@@ -4,5 +4,5 @@ function goRun(a, b) {
     return a + b - 1
 }
 
-// console.log(goRun(4,5));
+console.log(goRun(4,5));
 export default goRun;
