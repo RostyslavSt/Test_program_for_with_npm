@@ -2,7 +2,7 @@
   "name": "test_program_for_with_npm",
   "version": "1.0.2",
   "description": "test_beta",
-  "main": "dist/bundle.js",
+  "main": "./dist/bundle.js",
   "dependencies": {},
   "devDependencies": {
     "webpack": "^4.18.0",
