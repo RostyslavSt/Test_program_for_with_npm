@@ -5,6 +5,5 @@ function playWithNumbers(a, b) {
     return t - 1
 }
 
-console.log(playWithNumbers(4,5));
 export default playWithNumbers;
 
