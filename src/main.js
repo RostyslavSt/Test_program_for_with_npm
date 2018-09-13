@@ -1,8 +1,17 @@
 import sum from './utils/sum';
-function goRun(a, b) {
+
+// function goRun(a, b) {
+//     let t = sum(a,b)
+//     return a + b - 1
+// }
+
+// console.log(goRun(4,5));
+// export default goRun;
+
+module.exports.goRun = (a, b) => {
     let t = sum(a,b)
     return a + b - 1
 }
 
-console.log(goRun(4,5));
-export default goRun;
+// console.log(goRun(4,5));
+// export default goRun;
